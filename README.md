@@ -1,6 +1,10 @@
-# Hey! <img src="stuff/hello.gif" width="70" >
+<img src="stuff/hello.gif" width=25%>
+<H1> I'm Athashree !</H1>
 
 <img src="stuff/introduction.gif" width=100%  height=50%>
+
+- ## I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
+- 
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
-- 
