@@ -1,6 +1,6 @@
 <img src="stuff/hello.gif" width=25%>
 <H1> I'm Athashree !</H1>
-I'm a Software Developer with an experience in developing web applications. 
+<H3>I'm a Software Developer with an experience in developing web applications.</H3> 
 <img src="stuff/introduction.gif" width=100%  height=50%>
 
 - I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
