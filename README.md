@@ -4,7 +4,8 @@
 <img src="stuff/introduction.gif" width=100%  height=50%>
 
 - I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
-- I'm currently learning React & Node
+- I'm interested in Software/Web Development
+- I'm currently learning JavaScript Frameworks
 - Fun/Weird Fact: I created y Github username in hurry and the first word I thought of was <img src="stuff/bazinga.gif" width="70"> (I'm a Big Bang Theory Fan).
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
