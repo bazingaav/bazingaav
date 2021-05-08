@@ -1,4 +1,4 @@
-<img src="stuff/hello.gif" width="100">
+<img src="stuff/hello.gif" width=25%>
 <H1> I'm Athashree</H1>
 
 <img src="stuff/introduction.gif" width=100%  height=50%>
