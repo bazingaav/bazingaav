@@ -1,5 +1,6 @@
-# Hey! <img src="https://i.pinimg.com/originals/5b/54/39/5b543923641d0ef1df257706e19ee255.gif" width="70" >
+# Hey! <img src="stuff/hello.gif" width="70" >
 
+<img src="stuff/introduction.gif" width=100 >
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Athashree Vartak.
-
-- I'm a MS CS student at USC 
+- I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
 - 
