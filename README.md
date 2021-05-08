@@ -1,5 +1,5 @@
-<img src="stuff/hello.gif" width="100" >
-## I'm Athashree
+<img src="stuff/hello.gif" width="100">
+<H1> I'm Athashree</H1>
 
 <img src="stuff/introduction.gif" width=100%  height=50%>
 <!--
