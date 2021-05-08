@@ -1,4 +1,4 @@
-### Hello there <img src="https://tenor.com/view/cony-brown-cute-rabbit-line-gif-12770898" width="50" >
+### Hello there <img src="https://media1.tenor.com/images/469fc2fd2d1ee1b33f1bf40581fd4a08/tenor.gif" width="50" >
 
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
