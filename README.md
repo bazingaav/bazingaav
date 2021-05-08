@@ -1,6 +1,6 @@
 # Hey! <img src="stuff/hello.gif" width="70" >
 
-<img src="stuff/introduction.gif" width=100 >
+<img src="stuff/introduction.gif" width=100%  height=50%>
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
