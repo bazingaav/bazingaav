@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a MS CS student at USC 
+- I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
 - 
