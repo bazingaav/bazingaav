@@ -3,9 +3,9 @@
 <H3>I'm a Software Developer with an experience in developing web applications.</H3> 
 <img src="stuff/introduction.gif" width=100%  height=50%>
 
-- I'm a MS CS student at <img src="stuff/usc.gif" width="70" > 
-- I'm interested in Software/Web Development and Machine Learning
-- I'm currently learning JavaScript Frameworks
+- MS CS student at <img src="stuff/usc.gif" width="70" > 
+- Interested in Software/Web Development and Machine Learning
+- Currently learning JavaScript Frameworks
 - Fun/Weird Fact: I created y Github username in hurry and the first word I thought of was <img src="stuff/bazinga.gif" width="70"> (I'm a Big Bang Theory Fan).
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
