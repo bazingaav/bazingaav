@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/5b/54/39/5b543923641d0ef1df257706e19ee255.gif" width="70" >there!
+# Hey! <img src="https://i.pinimg.com/originals/5b/54/39/5b543923641d0ef1df257706e19ee255.gif" width="70" >
 
 <!--
 **bazingaav/bazingaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
