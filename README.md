@@ -4,7 +4,7 @@
 <img src="stuff/introduction.gif" width=100%  height=50%>
 
 - MS CS student at <img src="stuff/usc.gif" width="70" > 
-- Incoming SWE Intern at <img src="stuff/microsoft-st.gif" width="70" > for Summer 2022
+- Incoming SWE Intern at <img src="stuff/microsoft-st.gif" width="70" height="30"> for Summer 2022
 - Interested in Software/Web Development
 - Currently learning JavaScript Frameworks
 - Fun/Weird Fact: I created y Github username in hurry and the first word I thought of was <img src="stuff/bazinga.gif" width="70"> (I'm a Big Bang Theory Fan).
